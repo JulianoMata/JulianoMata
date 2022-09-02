@@ -5,10 +5,9 @@
 Técnico em Informática, Analista de Dados e Gestor de TI.
 
 * 🔭 Trabalhando como Freelancer(Técnico de Suporte).
-* 🌱 Aprendendo Python, Pandas, SQL, Power BI e Metodologias Ágeis.
-* 👯 Estou procurando colaborar em projetos de Análise de Dados.
+* 🌱 Estudando Python/Pandas, SQL, Power BI e Metodologias Ágeis.
+* 👯 Procurando colaborar em projetos de Análise de Dados.
 * 🤔 Podem me ajudar com dicas e conteúdos.
-* 💬 Pergunte-me sobre suporte e análise.
 * 📫 jfmatta@gmail.com
 * 😄 Sem cerimônias, me chame pelo primeiro nome.
 * ⚡ Interesse em Análise de Dados e Segurança da Informação.
