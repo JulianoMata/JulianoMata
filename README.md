@@ -33,4 +33,4 @@ Técnico em Informática, Gestor de TI e Analista de Dados.
 <img height="180em" src="https://github-Readme-stats.vercel.app/api?username=JulianoMata&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
- ![Snake animation](https://github.com/JulianoMata/JulianoMata/blob/output/github-contribution-grid-snake.svg)
+ 
