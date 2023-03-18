@@ -2,7 +2,7 @@
 ### Bem vindo ao meu GitHub 💻 ✌️
 
 
-Técnico em Informática, Gestor de TI e Analista de Dados.
+Técnico em Informática, Gestor de TI, Analista/Cientista de Dados.
 
 * 🔭 Freelancer;
 * 🌱 Estudando Python/Pandas, SQL, Power BI e Metodologias Ágeis;
