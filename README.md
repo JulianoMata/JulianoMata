@@ -14,7 +14,13 @@ Técnico em Informática, Gestor de TI, Analista/Cientista de Dados.
 
 ### Ferramentas e Tecnologias:
 
-<a href="https://git-scm.com/downloads"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/></a> <a href="https://www.python.org/downloads/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/></a> <a href="https://pandas.pydata.org/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50"/></a> <a href="https://www.anaconda.com/products/distribution"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="50" height="50"/></a> <a href="https://jupyter.org/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50"/></a> <a href="https://www.jetbrains.com/pt-br/pycharm/download/#section=windows"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="50" height="50"/></a> <a href="https://code.visualstudio.com/download"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/></a>
+<a href="https://git-scm.com/downloads"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/></a> 
+<a href="https://www.python.org/downloads/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/></a> 
+<a href="https://pandas.pydata.org/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50"/></a> 
+<a href="https://www.anaconda.com/products/distribution"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="50" height="50"/></a> 
+<a href="https://jupyter.org/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50"/></a> 
+<a href="https://www.jetbrains.com/pt-br/pycharm/download/#section=windows"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="50" height="50"/></a> 
+<a href="https://code.visualstudio.com/download"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/></a>
           
                 
 ### Contatos:
