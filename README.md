@@ -2,7 +2,7 @@
 ### Bem vindo ao meu GitHub 💻 ✌️
 
 
-Técnico em Informática, Gestão de TI (Tecnilógo), Ciência de Dados e IA (Graduando).
+Técnico em Informática, Gestão de TI (Tecnólogo), Ciência de Dados e IA (Graduando).
 
 * 🔭 Freelancer;
 * 👨‍💼 Agente Administrativo - CRAS/ Campo Belo - MG
