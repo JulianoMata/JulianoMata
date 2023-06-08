@@ -2,10 +2,11 @@
 ### Bem vindo ao meu GitHub 💻 ✌️
 
 
-Técnico em Informática, Gestor de TI, Analista/Cientista de Dados.
+Técnico em Informática, Gestão de TI (Tecnilógo), Ciência de Dados e IA (Graduando).
 
 * 🔭 Freelancer;
-* 🌱 Estudando Python/Pandas, SQL, Power BI e Metodologias Ágeis;
+* 👨‍💼 Agente Administrativo - CRAS/ Campo Belo - MG
+* 🌱 Estudando Python, SQL, Power BI, IA e Metodologias Ágeis;
 * 👯 Procurando colaborar em projetos de Análise de Dados;
 * 🤔 Podem me ajudar com dicas e conteúdos;
 * 📫 jfmatta@gmail.com;
