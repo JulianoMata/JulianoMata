@@ -2,12 +2,12 @@
 ### Bem vindo ao meu GitHub 💻 ✌️
 
 
-Técnico em Informática, Gestão de TI (Tecnólogo), Ciência de Dados e IA (Graduando).
+Técnico em Informática, Gestão de TI - Unicesumar(Tecnólogo), Ciência de Dados e IA - UniDomBosco(Graduando).
 
 * 🔭 Freelancer;
 * 👨‍💼 Agente Administrativo - CRAS/ Campo Belo - MG
-* 🌱 Estudando Python, SQL, Power BI, IA e Metodologias Ágeis;
-* 👯 Procurando colaborar em projetos de Análise de Dados;
+* 🌱 Estudando IA, Power BI, Python, R, SQL e Metodologias Ágeis;
+* 👯 Procurando colaborar em projetos de Análise/ Ciências de Dados;
 * 🤔 Podem me ajudar com dicas e conteúdos;
 * 📫 jfmatta@gmail.com;
 * 😄 Sem cerimônias, me chame pelo primeiro nome;
@@ -22,6 +22,7 @@ Técnico em Informática, Gestão de TI (Tecnólogo), Ciência de Dados e IA (Gr
 <a href="https://jupyter.org/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50"/></a> 
 <a href="https://www.jetbrains.com/pt-br/pycharm/download/#section=windows"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="50" height="50"/></a> 
 <a href="https://code.visualstudio.com/download"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/></a>
+<a href="[https://posit.co/download/rstudio-desktop/"> <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/rstudio_104598.png" width="50" height="50"/></a>
           
                 
 ### Contatos:
