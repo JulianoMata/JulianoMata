@@ -41,4 +41,8 @@ Técnico em Informática, Gestão de TI - Unicesumar(Tecnólogo), Ciência de Da
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JulianoMata&layout=compact&langs_count=7&theme=radical"/> <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JulianoMata&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
   
-![Snake animation](https://github.com/JulianoMata/JulianoMata/blob/output/github-contribution-grid-snake.svg) 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
