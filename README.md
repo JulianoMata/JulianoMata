@@ -35,7 +35,6 @@ Técnico em Informática, Gestão de TI - Unicesumar(Tecnólogo), Ciência de Da
 
 ### Estatísticas GitHub:
 
-
 <div>
 <a href="https://github.com/JulianoMata">
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JulianoMata&layout=compact&langs_count=7&theme=radical"/> <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JulianoMata&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
