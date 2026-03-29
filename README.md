@@ -15,12 +15,13 @@ Técnico em Informática, Gestão de TI - Unicesumar (Tecnólogo), Ciência de D
 ### Ferramentas e Tecnologias:
 
 <div align="left">
+<a href="https://git-scm.com/downloads"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="git"/></a>&nbsp;
 <a href="https://www.python.org/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="python"/></a>&nbsp;
 <a href="https://pandas.pydata.org/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="pandas"/></a>&nbsp;
+
 <a href="https://www.r-project.org/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rproject/rproject-original.svg" width="45" height="45" alt="r-lang"/></a>&nbsp;
-<a href="https://posit.co/download/rstudio-desktop/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="45" height="45" alt="rstudio"/></a>&nbsp;
+
 <a href="https://www.microsoft.com/pt-br/sql-server/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45" alt="sql-server"/></a>&nbsp;
-<a href="https://git-scm.com/downloads"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="git"/></a>&nbsp;
 <a href="https://www.anaconda.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="45" height="45" alt="anaconda"/></a>&nbsp;
 <a href="https://jupyter.org/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="45" height="45" alt="jupyter"/></a>&nbsp;
 <a href="https://www.jetbrains.com/pycharm/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="45" height="45" alt="pycharm"/></a>&nbsp;
