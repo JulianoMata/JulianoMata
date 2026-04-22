@@ -14,14 +14,14 @@ Técnico em Informática, Gestão de TI - Unicesumar (Tecnólogo), Ciência de D
 
 <div align="left">
 
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="45">](https://www.anaconda.com/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45">](https://git-scm.com/downloads)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45">](https://www.python.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="45">](https://jupyter.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45">](https://pandas.pydata.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="45">](https://www.jetbrains.com/pycharm/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45">](https://www.python.org/)
 [<img src="https://skillicons.dev/icons?i=r" width="45">](https://www.r-project.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45">](https://www.microsoft.com/pt-br/sql-server/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="45">](https://www.anaconda.com/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="45">](https://jupyter.org/)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="45">](https://www.jetbrains.com/pycharm/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45">](https://code.visualstudio.com/)
 
 </div>
